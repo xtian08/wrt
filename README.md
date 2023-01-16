@@ -1,5 +1,7 @@
 # wrt
 
-RUN
+## COPY & PASTE - in shell
 
-/bin/bash -c "$(curl -fsSL https://install.osx-proxmox.com)"
+```
+/bin/bash -c "$(curl -fsSL https://roft)"
+```
